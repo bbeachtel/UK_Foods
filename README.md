@@ -1,6 +1,6 @@
 # UK Food Standards Agency Ratings Analysis
 
-This project analyzes food hygiene ratings data from the UK Food Standards Agency to assist the "Eat Safe, Love" magazine in determining focus areas for future articles. The project involves setting up a NoSQL database, updating it with new data, and performing exploratory data analysis.
+This project analyzes food hygiene ratings data from the UK Food Standards Agency. The project involves setting up a NoSQL database, updating it with new data, and performing exploratory data analysis.
 
 ## Project Overview
 
